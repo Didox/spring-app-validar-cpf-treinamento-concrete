@@ -1,1 +1,2 @@
+# exec test
 ./mvnw test
